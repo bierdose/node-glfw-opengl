@@ -1,7 +1,7 @@
 {
 	"name": "node-glfw-opengl",
 	"description": "exposes js bindings for most of the glfw and opengl functions",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"license": "MIT",
 	"main": "./build/Release/addon",
 	"author": {
