@@ -8,6 +8,10 @@
 		"name": "hinzundcode",
 		"email": "chris-git@labasch.net"
 	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/bierdose/node-glfw-opengl.git"
+	},
 	"keywords": [
 		"glfw",
 		"opengl"
